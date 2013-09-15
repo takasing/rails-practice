@@ -22,6 +22,12 @@ gem 'coffee-rails', '~> 4.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
+# Use jquery-ui
+# As of v3.0, jquery-rails no longer includes jQuery UI. Use the jquery-ui-rails gem above.
+# https://github.com/rails/jquery-rails
+# https://github.com/joliss/jquery-ui-rails
+gem 'jquery-ui-rails'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
